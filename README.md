@@ -29,5 +29,6 @@ and Intelligent Transportation Systems (ITS).
 - Elastic Net hyperparameters adjustment and 3D results visualisation with Permutation Importance and *plotly*;
 > Final coefficient of determination: 69.84%
 - AdaBoost with different base estimators, hyperparameters tuning + 2D interactive plot visualisation with *plotly* and *ipywidgets*;
-> Final coefficient of determination: 81.78%
+> Final coefficient of determination: 81.85%
+-
 > in progress...

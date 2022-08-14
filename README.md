@@ -30,5 +30,5 @@ and Intelligent Transportation Systems (ITS).
 > Final coefficient of determination: 69.84%
 - AdaBoost with different base estimators, hyperparameters tuning + 2D interactive plot visualisation with *plotly* and *ipywidgets*;
 > Final coefficient of determination: 81.85%
--
-> in progress...
+- Bagging with different base estimators, hyperparameters tuning + 2D interactive plot visualisation with *plotly* and *ipywidgets*;
+> Final coefficient of determination: 83.87%

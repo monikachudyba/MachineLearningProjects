@@ -20,6 +20,8 @@ and Intelligent Transportation Systems (ITS).
 - XGBoost hyperparameters adjustment and 2D results visualisation with PCA and *mlxtend.plotting*;
 - *graphviz* visualisation of trees for one estimator.
 > Final accuracy: 99.87%
+- Naive Bayes classification: Gaussian, Multinomial and Complement.
+> Final accuracy: 93.95%
 
 ## Regression - House Pricing
 > Prediction of house sale prices for King County, Washington in USA in 2015. 

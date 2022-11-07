@@ -23,6 +23,16 @@ and Intelligent Transportation Systems (ITS).
 - Naive Bayes classification: Gaussian, Multinomial and Complement.
 > Final accuracy: 93.95%
 
+## HepatitisCBayesNetwork
+> Classification of the Hepatitis C based on blood test using Bayesian Networks.
+- data cleaning and exploration;
+- independece tests of features;
+- structure learning of Bayes Network for data with and without discretization;
+- Bayesian networks' DAGs and parameters visualization with *pyAgrum*;
+- missing values filling with Bayesian Estimator;
+- network learning with latent variables using Expectation Maximization algorithm;
+> Final F1-score: 100%
+
 ## Regression - House Pricing
 > Prediction of house sale prices for King County, Washington in USA in 2015. 
 - data cleaning and exploration;
